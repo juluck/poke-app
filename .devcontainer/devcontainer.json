@@ -1,0 +1,8 @@
+// See https://containers.dev/implementors/json_reference/ for configuration reference
+{
+	"name": "React_pokemon-app",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"remoteUser": "node"
+}
