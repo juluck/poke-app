@@ -5,6 +5,7 @@ import { getAllPokemon, getPokemon } from './utils/pokemon';
 import { Card } from './components/Card/Card'
 import { Navbar } from './components/Navbar/Navbar'
 
+// ポケモン図鑑
 function App() {
   // API エンドポイント
   const initialURL = 'https://pokeapi.co/api/v2/pokemon';
