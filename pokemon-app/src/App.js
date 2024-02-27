@@ -6,6 +6,7 @@ import { Card } from './components/Card/Card'
 import { Navbar } from './components/Navbar/Navbar'
 
 // ポケモン図鑑
+// Commitのテスト
 function App() {
   // API エンドポイント
   const initialURL = 'https://pokeapi.co/api/v2/pokemon';
